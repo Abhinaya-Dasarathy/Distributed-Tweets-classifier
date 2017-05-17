@@ -1,0 +1,17 @@
+Number of labels: 7
+Number of documents: 486
+Tweet: 309836558624768000       eBay - Porter Cable 18V Ni CAD 2-Tool Combo Kit (Refurbished) $56.99 http://t.co/pCSSlSq2c1 #Deal - http://t.co/QImHB6xJ5b
+  apparel: -252.96630831136127  art: -246.9351025603821  camera: -262.28340417385357  event: -262.5573608070056  health: -238.17884382282813  home: -253.05135616792995  tech: -232.9118
+41377148 => tech
+Tweet: 309836557379043329       Newegg - BenQ GW2750HM 27" Widescreen LED Backlight LCD Monitor $209.99 http://t.co/6ezbjGZIta #Deal - http://t.co/QImHB6xJ5b
+  apparel: -287.5588179141781  art: -284.27401807389435  camera: -278.4968305457808  event: -292.56786244190556  health: -292.22158238362204  home: -281.9809996515652  tech: -253.34354
+804349476 => tech
+Tweet: 309836556355657728       J and R - Roku 3 Streaming Player 4200R $89.99 http://t.co/BAaMEmEdCm #Deal - http://t.co/QImHB6xJ5b
+  apparel: -192.44260718853357  art: -187.6881145121525  camera: -175.8783440835461  event: -191.74948688734446  health: -190.45406023882765  home: -192.9107077937349  tech: -185.52068
+485514894 => camera
+Tweet: 309836555248361472       eBay - Adidas Adicross 2011 Men's Spikeless Golf Shoes $42.99 http://t.co/oRt8JIQB6v #Deal - http://t.co/QImHB6xJ5b
+  apparel: -133.86214565455646  art: -174.44106424825426  camera: -188.66719939648308  event: -188.83296276708387  health: -188.188838820323  home: -178.13519042380085  tech: -190.7717
+2248114303 => apparel
+Tweet: 309836554187202560       Buydig - Tamron 18-270mm Di Lens for Canon + Canon 50mm F/1.8 Lens $464 http://t.co/Dqj9DdqmTf #Deal - http://t.co/QImHB6xJ5b
+  apparel: -218.82418584296866  art: -228.25052760371423  camera: -183.46066199290763  event: -245.186963518965  health: -244.70464331200444  home: -236.16560862254997  tech: -244.4118
+6823539707 => camera
